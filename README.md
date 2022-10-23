@@ -1,4 +1,4 @@
-![a satisfying gif I like](https://media.giphy.com/media/f6qMGmXuOdkwU/giphy.gif)
+![amity hacks gif i made!](https://media.giphy.com/media/fEKnkoefscf6chkaG5/giphy.gif)
 - 👋 Hi, I’m @wildwastaken, or Allen
 - 👀 I’m interested in Python, JavaScript, GoLang, and Rust.
 - 🌱 I’m currently learning more about cybersecurity.
