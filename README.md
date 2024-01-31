@@ -1,5 +1,5 @@
 ![amity hacks gif i made!](https://media.giphy.com/media/fEKnkoefscf6chkaG5/giphy.gif)
-- 👋 Hi, I’m @wildwastaken, or Allen
+- 👋 Hi, I’m Allen
 - 👀 I’m interested in Python, JavaScript, GoLang, and Rust.
 - 🌱 I’m currently learning more about cybersecurity.
 - 💞️ I’m looking to collaborate on anything fun!
